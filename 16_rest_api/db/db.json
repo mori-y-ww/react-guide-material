@@ -14,7 +14,7 @@
     },
     {
       "id": "f2c38014-e2df-40ae-ac93-36303b8771ce",
-      "content": "買い物",
+      "content": "買い物をします",
       "editing": false,
       "completed": false
     }
@@ -46,6 +46,16 @@
       "hobbies": [
         "筋トレ",
         "水泳"
+      ],
+      "premiumAccount": true
+    },
+    {
+      "id": 17,
+      "username": "ho-ge",
+      "age": 23,
+      "hobbies": [
+        "サッカー",
+        "野球"
       ],
       "premiumAccount": true
     }
